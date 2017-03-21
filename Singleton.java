@@ -15,7 +15,8 @@ public class Singleton {
 			a=new Singleton();
 			a.name="test";
 		}
-	
+	    
+        // return the instance
 		return a;
 		
 	}
