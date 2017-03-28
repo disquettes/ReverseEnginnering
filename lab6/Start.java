@@ -12,6 +12,12 @@ public class Start {
 		
 		
 	System.out.println(Math.sqrt(4+4));
+	
+	Figura c =new Cerc(3);
+	System.out.println(c.aria());
+	
+
+	
 			
 	}
 
